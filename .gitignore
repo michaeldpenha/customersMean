@@ -3,7 +3,6 @@
 /server/build
 
 /client/node_modules
-/client/build
 
 
 # IDEs and editors
